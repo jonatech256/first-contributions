@@ -280,6 +280,7 @@
 - [Rizel](https://github.com/blackgirlbytes)
 - [Lukas Walczak](https://github.com/walclu)
 - [TUTICOI]
+- [jonatech256](https://github.com/jonatech256)  
 - [Vladyslav Nechytailo](https://github.com/Nutopia13)
 - Shaswata Karan
 - [Miguel Camitoc](https://github.com/mcamitoc)
